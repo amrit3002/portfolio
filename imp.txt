@@ -1,0 +1,20 @@
+// vite is the lighter version of react
+// if two css files have same style with same name they
+will overwrite each other so we use css modules
+// in vite.config.js we will add the css modules
+
+// in this project we have also used css variables which is 
+termed as css variables.
+
+// then for each component or file we have created css file like
+app.module.css and we import styles from this file.
+
+// for navbar we have created a unordered list with a tags.
+
+// we have made a utility function getImageUrl which gets
+the image url path from assets
+
+// An RGB color value represents RED, GREEN, and BLUE
+ light sources.
+  An RGBA color value is an extension of RGB with 
+  an Alpha channel (opacity).
